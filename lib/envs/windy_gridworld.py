@@ -1,6 +1,7 @@
+import sys
+
 import gym
 import numpy as np
-import sys
 from gym.envs.toy_text import discrete
 
 UP = 0

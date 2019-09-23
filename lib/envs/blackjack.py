@@ -2,6 +2,7 @@ import gym
 from gym import spaces
 from gym.utils import seeding
 
+
 def cmp(a, b):
     return int((a > b)) - int((a < b))
 

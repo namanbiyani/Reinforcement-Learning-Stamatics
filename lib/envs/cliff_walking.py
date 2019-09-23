@@ -1,7 +1,7 @@
-import numpy as np
 import sys
-from gym.envs.toy_text import discrete
 
+import numpy as np
+from gym.envs.toy_text import discrete
 
 UP = 0
 RIGHT = 1

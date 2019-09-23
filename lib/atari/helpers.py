@@ -1,5 +1,6 @@
 import numpy as np
 
+
 class AtariEnvWrapper(object):
   """
   Wraps an Atari environment to end an episode when a life is lost.

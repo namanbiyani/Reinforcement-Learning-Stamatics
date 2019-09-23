@@ -1,6 +1,7 @@
 import numpy as np
 import tensorflow as tf
 
+
 class StateProcessor():
     """
     Processes a raw Atari iamges. Resizes it and converts it to grayscale.
